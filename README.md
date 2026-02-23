@@ -1,7 +1,7 @@
 # Task-7-SVM-Classification
 AI & ML Internship - Task 7: Support Vector Machines (SVM)
 
-Task 7: Support Vector Machines (SVM)
+📌 Task 7: Support Vector Machines (SVM)
 
 Objective:
 To implement SVM for linear and non-linear classification.
